@@ -60,3 +60,34 @@ node index.js add 12 8
 ![N2 Division by Zero](set1/n2-calculator/screenshots/n2_division_by_zero.png)
 
 ![N2 Invalid Operation](set1/n2-calculator/screenshots/n2_invalid_operation.png)
+
+
+### N3 – File Manager with fs and path 
+
+A command-line file manager using Node.js built-in fs and path modules to create, read, update, delete, and list text files.
+
+**Folder:** [set1/n3-file-manager](set1/n3-file-manager/)
+
+**Run the project:**
+```bash
+node index.js
+node index.js create notes.txt "Hello"
+node index.js read notes.txt
+node index.js update notes.txt " New text"
+node index.js delete notes.txt
+node index.js list
+```
+
+## Screenshots
+
+### N3 – File Manager with fs and path 
+
+![N3 Create](set1/n3-file-manager/screenshots/create_notes.png)
+
+![N3 Read](set1/n3-file-manager/screenshots/read.png)
+
+![N3 Update](set1/n3-file-manager/screenshots/update.png)
+
+![N3 Delete](set1/n3-file-manager/screenshots/delete.png)
+
+![List](set1/n3-file-manager/screenshots/list.png)
