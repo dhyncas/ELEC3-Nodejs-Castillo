@@ -30,7 +30,7 @@ npm start
 ![N1 npm start](set1/n1-setup/screenshots/npm_start_output.png)
 
 
-### N1 – Project Setup and Package Management
+### N2 – Modular Calculator
 
 Created a Node.js calculator using custom modules, require(), and module.exports. The program supports addition, subtraction, multiplication, division, and average operations, and handles division by zero and unknown operations with clear error messages.
 
