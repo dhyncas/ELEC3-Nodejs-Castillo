@@ -23,8 +23,8 @@ npm start
 
 ### N1 – Project Setup and Package Management
 
-![N1 Version Check](set1/n1-setup/screenshots/n1_version_check.png)
+![N1 Version Check](set1/n1-setup/screenshots/version_check.png)
 
-![N1 Package JSON](set1/n1-setup/screenshots/n1_package_json.png)
+![N1 Package JSON](set1/n1-setup/screenshots/finished_package_js.png)
 
-![N1 npm start](set1/n1-setup/screenshots/n1_npm_start.png)
+![N1 npm start](set1/n1-setup/screenshots/npm_start_output.png)
