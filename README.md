@@ -39,8 +39,11 @@ Created a Node.js calculator using custom modules, require(), and module.exports
 **Run the project:**
 ```bash
 cd set1/n2-calculator
-npm install
 node index.js add 12 8
+node index.js subtract 12 8
+node index.js multiply 12 8
+node index.js divide 12 8
+node index.js average 12 8
 ```
 
 ## Screenshots
